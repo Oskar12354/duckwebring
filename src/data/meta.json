@@ -1,13 +1,13 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
-    "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "title": "Epik Duck Webring",
+    "description": "A Webring For all Duck Lovers and website devs!",
+    "image": "https://cdn.discordapp.com/attachments/1084139929317163151/1092429518725206107/duck.png",
+    "url": "https://duckwebring.neocities.org/",
+    "repo": "https://github.com/Oskar12354/duckwebring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Oskar",
+            "url": "https://github.com/Oskar12354"
         }
     ]
 }
